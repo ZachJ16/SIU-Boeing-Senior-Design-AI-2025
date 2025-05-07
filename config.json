@@ -1,0 +1,17 @@
+{
+    "networks": [
+        {
+            "input-path": "mobilenetv2_maze.onnx",
+            "input-persistency": false
+        }
+    ],
+    "output-dir": "C:/Users/ajzjo/OneDrive - Southern Illinois University/VsCode/MobileNet/Conv",
+    "overwrite-output": true,
+    "report-size-unit": "M",
+    "memory-report": false,
+    "model-insight": true,
+    "logger-level": "debug",
+    "logger-format": "json",
+    "logger-context": null,
+    "keep-temp": false
+}
